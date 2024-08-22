@@ -1,6 +1,6 @@
 # CS305 Software Security
 
-**Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client?**
+**Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client?**<br>
 Artemis Financial is a consulting company specializing in creating personalized financial plans, including savings, retirement, investments, and insurance. They sought to develop a secure web application to protect their global customer base and enhance their online services. 
 
 **What issue did the company want you to address?**
